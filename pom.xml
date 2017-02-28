@@ -25,7 +25,7 @@
 	<configuration>
 		<url>http://localhost:8081/manager/text</url>
 		<server>TomcatServer</server>
-		<path>/CounterWebApp</path>
+		<path>/2sample</path>
 	</configuration>
 	</plugin>
 	</plugins>
